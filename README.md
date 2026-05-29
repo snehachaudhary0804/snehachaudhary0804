@@ -59,14 +59,14 @@ A MERN Stack platform connecting waste providers with workers who transform wast
 
 ---
 
-### 🤖 AI Resume Builder
-An AI-powered application to generate professional resumes dynamically.
+### 🤖 AI Email Writer 
+An AI-powered application to generate professional Emails dynamically.
 
 #### Features
-- Resume Templates
-- AI Content Suggestions
-- PDF Export
-- User-friendly UI
+- Smart subject line generation
+- Email reply suggestions
+- Secure user authentication
+- Tone customization (Formal, Professional, Friendly, Casual)
 
 ---
 
